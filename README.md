@@ -1,4 +1,4 @@
-# SQL-SERVER
+# C-Advance
 
 welcome to SQL Server with me
 - 👋 Hi, I’m @PovPhanit
