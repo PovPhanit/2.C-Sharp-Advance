@@ -1,6 +1,6 @@
-# C-Advance
+# C#-Advance
 
-welcome to SQL Server with me
+welcome to advance c# with me
 - 👋 Hi, I’m @PovPhanit
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
